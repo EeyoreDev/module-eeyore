@@ -2,8 +2,8 @@
   "_args": [
     [
       {
-       	"raw": "the cheese/grunt module-eeyore",
-        "scope": "business, pleasure"
+        "raw": "the cheese/grunt module-eeyore",
+        "scope": "business, pleasure",
         "escapedName": "module-eeyore",
         "name": "module-eeyore",
         "rawSpec": "eeeeeyore",
@@ -20,34 +20,34 @@
   "_nodeVersion": "7.2.1",
   "_npmOperationalInternal": {
     "host": "eeyoredevelopments.org",
-    "tmp": "tmp/module-eeyore-2.0.0.tgz_1482553342259_0.32977071893401444"
+    "tmp": "tmp/module-eeyore-1.0.0.tgz_1482553342259_0.32977071893401444"
   },
   "_npmUser": {
     "name": "sid",
     "email": "support@eeyoredevelopments.org"
   },
   "_npmVersion": "3.10.10",
-"_phantomChildren": {},
+  "_phantomChildren": {},
   "_requested": {
-    "raw": "module-eeyore"",
-    "scope": "business, pleasure"
+    "raw": "module-eeyore",
+    "scope": "business, pleasure",
     "escapedName": "module-eeyore",
     "name": "module-eeyore",
     "rawSpec": "module-eeyore",
     "spec": "latest",
     "type": "tag"
   },
-"_requiredBy": [
+  "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/package-json-to-readme/-/package-jso$
+  "_resolved": "https://registry.npmjs.org/package-json-to-readme/-/package-json-to-readme-1.0.0.tgz",
   "_shasum": "607d47be99b91376ff15b9bb8059c5e91ea4108e",
   "_shrinkwrap": null,
   "_spec": "module-eeyore",
   "_where": "/root",
   "author": {
-    "name": "Sid Garrison"
-"email": "support@eeyoredevelopments.org",
+    "name": "Sid Garrison",
+    "email": "support@eeyoredevelopments.org",
     "url": "http://eeyoredevelopments.org"
   },
   "bin": {
@@ -57,27 +57,27 @@
   "bugs": {
     "url": "https://github.com/EeyoreDev/module-eeyore/issues"
   },
-"dependencies": {
+  "dependencies": {
     "github-url-to-object": "^1.6.0",
     "hogan.js": "^2.0.0",
     "strip-ansi": "^0.2.2",
     "sync-exec": "^0.5.0",
     "yargs": "^3.0.4"
   },
-  "description": "a dimple man with simple plan with eeyore or am i eeyore, dun$
+  "description": "a dimple man with simple plan with eeyore or am i eeyore, dunno forgot",
   "devDependencies": {
     "mocha": "^2.1.0",
-"nixt": "^0.3.0",
+    "nixt": "^0.3.0",
     "standard": "^8.6.0"
   },
   "directories": {},
   "dist": {
     "shasum": "607d47be99b91376ff15b9bb8059c5e91ea4108e",
-    "tarball": "https://registry.npmjs.org/module-eeyore/-/module-eeyore-1.0.0.$
+    "tarball": "https://registry.npmjs.org/module-eeyore/-/module-eeyore-1.0.0.tgz"
   },
   "gitHead": "5c5a962558f5a7682cf92d94a3234e533bc8ae29",
   "homepage": "https://github.com/EeyoreDev/module-eeyore",
-"keywords": [
+  "keywords": [
     "package.json",
     "readme",
     "generator",
@@ -87,17 +87,17 @@
   ],
   "license": "MIT",
   "main": "https://github.com/EeyoreDev/module-eeyore",
-"maintainers": [
+  "maintainers": [
     {
       "name": "sid",
       "email": "support@eeyoredevelopments.org"
     }
   ],
-  "name": "module-eeyore"",
+  "name": "module-eeyore",
   "optionalDependencies": {},
   "preferGlobal": true,
   "readme": "README.md",
-"repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/EeyoreDev/module-eeyore/.git"
   },
@@ -107,7 +107,7 @@
   "standard": {
     "env": {
       "mocha": true
- },
+    },
     "ignore": [
       "test/fixtures"
     ]
